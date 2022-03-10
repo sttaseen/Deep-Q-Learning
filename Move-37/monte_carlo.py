@@ -118,7 +118,7 @@ def monte_carlo(grid):
 
 
 if __name__ == '__main__':
-  grid = standard_grid(obey_prob=1.0, step_cost=None)
+  grid = standard_grid(obey_prob=0.8, step_cost=-1)
 
   # print rewards
   print("rewards:")
