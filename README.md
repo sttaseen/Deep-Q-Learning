@@ -4,7 +4,7 @@ This is an implementation of a [Stanford research paper] (https://web.stanford.e
 
 Code for Move-37 is from a course on [udemy] (https://www.udemy.com/course/deep-q-learning-from-paper-to-code/).
 
-![image](https://user-images.githubusercontent.com/67076071/179661634-a0771ca2-8b9b-436c-be40-969915f6fb28.png)
+![image](https://user-images.githubusercontent.com/67076071/179663034-6dd84f8d-b61f-4b89-82e6-b17a76bd5d4c.png)
 
 FrozenLakev1 uses q-learning for our agent to move from the starting position to the treasure/flag.
 
