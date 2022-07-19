@@ -1,8 +1,8 @@
 # Deep-Q-Learning
 
-This is an implementation of a [Stanford research paper] (https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf) on reinforcement learning by combining deep learning and q-learning. 
+This is an implementation of a [Stanford research paper](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf) on reinforcement learning by combining deep learning and q-learning. 
 
-Code for Move-37 is from a course on [udemy] (https://www.udemy.com/course/deep-q-learning-from-paper-to-code/).
+Code for Move-37 is from a course on [udemy](https://www.udemy.com/course/deep-q-learning-from-paper-to-code/).
 
 ![image](https://user-images.githubusercontent.com/67076071/179663034-6dd84f8d-b61f-4b89-82e6-b17a76bd5d4c.png)
 
@@ -14,4 +14,4 @@ There are also some holes along the way which result in terminal states if the a
 
 These values are gained by randomly playing the game, choosing more random moves at first and then slowly reducing the number of random moves as the number of wins increases.
 
-[Wikipedia] (https://en.wikipedia.org/wiki/Q-learning) talks more in depth about the concepts used to gain the final q-values such as discount factor, learning rate and epsilon.
+[Wikipedia](https://en.wikipedia.org/wiki/Q-learning) talks more in depth about the concepts used to gain the final q-values such as discount factor, learning rate and epsilon.
